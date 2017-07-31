@@ -129,7 +129,7 @@ return [
 		},
 		'view.scripts' => function( $event, $scripts ) use ( $app ) {
 			$scripts->register(
-				'toc-detectadblocker',
+				'detectadblocker-settings',
 				'spqr/detectadblocker:app/bundle/detectadblocker-settings.js',
 				[ '~extensions', 'input-tree', 'editor' ]
 			);
