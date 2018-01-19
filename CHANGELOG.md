@@ -3,6 +3,7 @@
 ## 1.0.2
 
 - ADD: Replaced bower with npm/webpack
+- ADD: Added French translation - thanks to @RoyalC from pagekit-forum.org
 
 ## 1.0.1
 
