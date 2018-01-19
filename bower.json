@@ -1,7 +1,0 @@
-{
-"name": "detectadblocker",
-"dependencies": {
-"blockadblock": "*"
-},
-"private": true
-}
