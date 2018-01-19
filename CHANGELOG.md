@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- ADD: Replaced bower with npm/webpack
+
 ## 1.0.1
 
 - FIX: Removed wrong name (fragment)
